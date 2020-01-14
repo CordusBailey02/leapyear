@@ -1,4 +1,4 @@
-package com.cctc.amatlock.test;
+package com.company;
 
 import java.util.Random;
 

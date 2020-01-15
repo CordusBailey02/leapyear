@@ -1,7 +1,4 @@
-package com.company;
-
-import javax.swing.*;
-import java.awt.*;
+package com.caddocareer;
 
 public class Main extends ConsoleProgram {
 

@@ -3,8 +3,7 @@ package com.company;
 import javax.swing.*;
 import java.awt.*;
 
-public class Main {
-    static JFrame world = new JFrame();
+public class Main extends ConsoleProgram {
 
     public static void main(String[] args)
     {
